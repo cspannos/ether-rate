@@ -1,0 +1,19 @@
+{
+  "name": "eth-rate",
+  "version": "1.0.0",
+  "description": "A web service converting rates from different ETH and time units.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "Freelance"
+  ],
+  "author": "Chris Spannos",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.8.5"
+  }
+}
